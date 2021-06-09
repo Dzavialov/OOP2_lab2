@@ -1,0 +1,10 @@
+D:\windows forms proj\lab2\lab2_ind_2\lab2_ind_2\bin\Debug\lab2_ind_2.exe.config
+D:\windows forms proj\lab2\lab2_ind_2\lab2_ind_2\bin\Debug\lab2_ind_2.exe
+D:\windows forms proj\lab2\lab2_ind_2\lab2_ind_2\bin\Debug\lab2_ind_2.pdb
+D:\windows forms proj\lab2\lab2_ind_2\lab2_ind_2\obj\Debug\lab2_ind_2.csprojAssemblyReference.cache
+D:\windows forms proj\lab2\lab2_ind_2\lab2_ind_2\obj\Debug\lab2_ind_2.Form1.resources
+D:\windows forms proj\lab2\lab2_ind_2\lab2_ind_2\obj\Debug\lab2_ind_2.Properties.Resources.resources
+D:\windows forms proj\lab2\lab2_ind_2\lab2_ind_2\obj\Debug\lab2_ind_2.csproj.GenerateResource.cache
+D:\windows forms proj\lab2\lab2_ind_2\lab2_ind_2\obj\Debug\lab2_ind_2.csproj.CoreCompileInputs.cache
+D:\windows forms proj\lab2\lab2_ind_2\lab2_ind_2\obj\Debug\lab2_ind_2.exe
+D:\windows forms proj\lab2\lab2_ind_2\lab2_ind_2\obj\Debug\lab2_ind_2.pdb
